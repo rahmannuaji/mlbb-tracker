@@ -1,0 +1,1532 @@
+[
+ {
+  "id": "miya",
+  "name": "Miya",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero011-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145035"
+ },
+ {
+  "id": "balmond",
+  "name": "Balmond",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "Jungle",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero021-icon.png/revision/latest/scale-to-width-down/100?cb=20251110110542"
+ },
+ {
+  "id": "saber",
+  "name": "Saber",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle",
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Hero031-icon.png/revision/latest/scale-to-width-down/100?cb=20250406000724"
+ },
+ {
+  "id": "alice",
+  "name": "Alice",
+  "roles": [
+   "Tank",
+   "Mage"
+  ],
+  "lanes": [
+   "EXP Lane",
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero041-icon.png/revision/latest/scale-to-width-down/100?cb=20250917073910"
+ },
+ {
+  "id": "nana",
+  "name": "Nana",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Hero051-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145100"
+ },
+ {
+  "id": "tigreal",
+  "name": "Tigreal",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero061-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145106"
+ },
+ {
+  "id": "alucard",
+  "name": "Alucard",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145111"
+ },
+ {
+  "id": "karina",
+  "name": "Karina",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero081-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145117"
+ },
+ {
+  "id": "akai",
+  "name": "Akai",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero091-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145133"
+ },
+ {
+  "id": "franco",
+  "name": "Franco",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero101-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145139"
+ },
+ {
+  "id": "bane",
+  "name": "Bane",
+  "roles": [
+   "Fighter",
+   "Mage"
+  ],
+  "lanes": [
+   "Jungle",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero111-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145146"
+ },
+ {
+  "id": "bruno",
+  "name": "Bruno",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero121-icon.png/revision/latest/scale-to-width-down/100?cb=20260916132625"
+ },
+ {
+  "id": "clint",
+  "name": "Clint",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero131-icon.png/revision/latest/scale-to-width-down/100?cb=20260918135606"
+ },
+ {
+  "id": "rafaela",
+  "name": "Rafaela",
+  "roles": [
+   "Support"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero141-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145203"
+ },
+ {
+  "id": "eudora",
+  "name": "Eudora",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero151-icon.png/revision/latest/scale-to-width-down/100?cb=20260129103003"
+ },
+ {
+  "id": "zilong",
+  "name": "Zilong",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero161-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145216"
+ },
+ {
+  "id": "fanny",
+  "name": "Fanny",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero171-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145223"
+ },
+ {
+  "id": "layla",
+  "name": "Layla",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero181-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145229"
+ },
+ {
+  "id": "minotaur",
+  "name": "Minotaur",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero191-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145234"
+ },
+ {
+  "id": "lolita",
+  "name": "Lolita",
+  "roles": [
+   "Support",
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero201-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145241"
+ },
+ {
+  "id": "hayabusa",
+  "name": "Hayabusa",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero211-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145247"
+ },
+ {
+  "id": "freya",
+  "name": "Freya",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane",
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero221-icon.png/revision/latest/scale-to-width-down/100?cb=20251110105914"
+ },
+ {
+  "id": "gord",
+  "name": "Gord",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero231-icon.png/revision/latest/scale-to-width-down/100?cb=20250109162109"
+ },
+ {
+  "id": "natalia",
+  "name": "Natalia",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle",
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero241-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145304"
+ },
+ {
+  "id": "kagura",
+  "name": "Kagura",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero251-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145310"
+ },
+ {
+  "id": "chou",
+  "name": "Chou",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane",
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero261-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145315"
+ },
+ {
+  "id": "sun",
+  "name": "Sun",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane",
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero271-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145321"
+ },
+ {
+  "id": "alpha",
+  "name": "Alpha",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "Jungle",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero281-icon.png/revision/latest/scale-to-width-down/100?cb=20250802155834"
+ },
+ {
+  "id": "ruby",
+  "name": "Ruby",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero291-icon.png/revision/latest/scale-to-width-down/100?cb=20250802152451"
+ },
+ {
+  "id": "yi-sun-shin",
+  "name": "Yi Sun-shin",
+  "roles": [
+   "Assassin",
+   "Marksman"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero301-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145338"
+ },
+ {
+  "id": "moskov",
+  "name": "Moskov",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero311-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145343"
+ },
+ {
+  "id": "johnson",
+  "name": "Johnson",
+  "roles": [
+   "Tank",
+   "Support"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero321-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145350"
+ },
+ {
+  "id": "cyclops",
+  "name": "Cyclops",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero331-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145355"
+ },
+ {
+  "id": "estes",
+  "name": "Estes",
+  "roles": [
+   "Support"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero341-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145400"
+ },
+ {
+  "id": "hilda",
+  "name": "Hilda",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero351-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145405"
+ },
+ {
+  "id": "aurora",
+  "name": "Aurora",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero361-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145411"
+ },
+ {
+  "id": "lapu-lapu",
+  "name": "Lapu-Lapu",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero371-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145417"
+ },
+ {
+  "id": "vexana",
+  "name": "Vexana",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero381-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145423"
+ },
+ {
+  "id": "roger",
+  "name": "Roger",
+  "roles": [
+   "Fighter",
+   "Marksman"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero391-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145430"
+ },
+ {
+  "id": "karrie",
+  "name": "Karrie",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Hero401-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145437"
+ },
+ {
+  "id": "gatotkaca",
+  "name": "Gatotkaca",
+  "roles": [
+   "Tank",
+   "Fighter"
+  ],
+  "lanes": [
+   "Roaming",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero411-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145443"
+ },
+ {
+  "id": "harley",
+  "name": "Harley",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "lanes": [
+   "Jungle",
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero421-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145449"
+ },
+ {
+  "id": "irithel",
+  "name": "Irithel",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero431-icon.png/revision/latest/scale-to-width-down/100?cb=20260618090441"
+ },
+ {
+  "id": "grock",
+  "name": "Grock",
+  "roles": [
+   "Tank",
+   "Fighter"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Hero441-icon.png/revision/latest/scale-to-width-down/100?cb=20250811073945"
+ },
+ {
+  "id": "argus",
+  "name": "Argus",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145507"
+ },
+ {
+  "id": "odette",
+  "name": "Odette",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero461-icon.png/revision/latest/scale-to-width-down/100?cb=20250118142124"
+ },
+ {
+  "id": "lancelot",
+  "name": "Lancelot",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero471-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145518"
+ },
+ {
+  "id": "diggie",
+  "name": "Diggie",
+  "roles": [
+   "Support"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero481-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145524"
+ },
+ {
+  "id": "hylos",
+  "name": "Hylos",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero491-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145529"
+ },
+ {
+  "id": "zhask",
+  "name": "Zhask",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero501-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145534"
+ },
+ {
+  "id": "helcurt",
+  "name": "Helcurt",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle",
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero511-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145541"
+ },
+ {
+  "id": "pharsa",
+  "name": "Pharsa",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero521-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145546"
+ },
+ {
+  "id": "lesley",
+  "name": "Lesley",
+  "roles": [
+   "Marksman",
+   "Assassin"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero531-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145551"
+ },
+ {
+  "id": "jawhead",
+  "name": "Jawhead",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "Roaming",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero541-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145558"
+ },
+ {
+  "id": "angela",
+  "name": "Angela",
+  "roles": [
+   "Support"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero551-icon.png/revision/latest/scale-to-width-down/100?cb=20250406000608"
+ },
+ {
+  "id": "gusion",
+  "name": "Gusion",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle",
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero561-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145610"
+ },
+ {
+  "id": "valir",
+  "name": "Valir",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero571-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145616"
+ },
+ {
+  "id": "martis",
+  "name": "Martis",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "Jungle",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero581-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145622"
+ },
+ {
+  "id": "uranus",
+  "name": "Uranus",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero591-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145629"
+ },
+ {
+  "id": "hanabi",
+  "name": "Hanabi",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero601-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145634"
+ },
+ {
+  "id": "chang-e",
+  "name": "Chang'e",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero611-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145640"
+ },
+ {
+  "id": "kaja",
+  "name": "Kaja",
+  "roles": [
+   "Support"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero621-icon.png/revision/latest/scale-to-width-down/100?cb=20260805104508"
+ },
+ {
+  "id": "selena",
+  "name": "Selena",
+  "roles": [
+   "Assassin",
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane",
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero631-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145650"
+ },
+ {
+  "id": "aldous",
+  "name": "Aldous",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero641-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145655"
+ },
+ {
+  "id": "claude",
+  "name": "Claude",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero651-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145701"
+ },
+ {
+  "id": "vale",
+  "name": "Vale",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero661-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145708"
+ },
+ {
+  "id": "leomord",
+  "name": "Leomord",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero671-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145713"
+ },
+ {
+  "id": "lunox",
+  "name": "Lunox",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero681-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145719"
+ },
+ {
+  "id": "hanzo",
+  "name": "Hanzo",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero691-icon.png/revision/latest/scale-to-width-down/100?cb=20250118142130"
+ },
+ {
+  "id": "belerick",
+  "name": "Belerick",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero701-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145730"
+ },
+ {
+  "id": "kimmy",
+  "name": "Kimmy",
+  "roles": [
+   "Marksman",
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane",
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero711-icon.png/revision/latest/scale-to-width-down/100?cb=20250402105900"
+ },
+ {
+  "id": "thamuz",
+  "name": "Thamuz",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero721-icon.png/revision/latest/scale-to-width-down/100?cb=20250917080704"
+ },
+ {
+  "id": "harith",
+  "name": "Harith",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero731-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145748"
+ },
+ {
+  "id": "minsitthar",
+  "name": "Minsitthar",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane",
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero741-icon.png/revision/latest/scale-to-width-down/100?cb=20241021145754"
+ },
+ {
+  "id": "kadita",
+  "name": "Kadita",
+  "roles": [
+   "Mage",
+   "Assassin"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Hero751-icon.png/revision/latest/scale-to-width-down/100?cb=20260925052928"
+ },
+ {
+  "id": "faramis",
+  "name": "Faramis",
+  "roles": [
+   "Support",
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane",
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero761-icon.png/revision/latest/scale-to-width-down/100?cb=20241021152934"
+ },
+ {
+  "id": "badang",
+  "name": "Badang",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "Roaming",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero771-icon.png/revision/latest/scale-to-width-down/100?cb=20260919020751"
+ },
+ {
+  "id": "khufra",
+  "name": "Khufra",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero781-icon.png/revision/latest/scale-to-width-down/100?cb=20241021152946"
+ },
+ {
+  "id": "granger",
+  "name": "Granger",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero791-icon.png/revision/latest/scale-to-width-down/100?cb=20241108062800"
+ },
+ {
+  "id": "guinevere",
+  "name": "Guinevere",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero801-icon.png/revision/latest/scale-to-width-down/100?cb=20241021152957"
+ },
+ {
+  "id": "esmeralda",
+  "name": "Esmeralda",
+  "roles": [
+   "Tank",
+   "Mage"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero811-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153002"
+ },
+ {
+  "id": "terizla",
+  "name": "Terizla",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero821-icon.png/revision/latest/scale-to-width-down/100?cb=20250802150120"
+ },
+ {
+  "id": "x-borg",
+  "name": "X.Borg",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero831-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153015"
+ },
+ {
+  "id": "ling",
+  "name": "Ling",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Hero841-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153020"
+ },
+ {
+  "id": "dyrroth",
+  "name": "Dyrroth",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane",
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero851-icon.png/revision/latest/scale-to-width-down/100?cb=20250917081355"
+ },
+ {
+  "id": "lylia",
+  "name": "Lylia",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero861-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153033"
+ },
+ {
+  "id": "baxia",
+  "name": "Baxia",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "Jungle",
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero871-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153038"
+ },
+ {
+  "id": "masha",
+  "name": "Masha",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero881-icon.png/revision/latest/scale-to-width-down/100?cb=20260918142337"
+ },
+ {
+  "id": "wanwan",
+  "name": "Wanwan",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero891-icon.png/revision/latest/scale-to-width-down/100?cb=20250118142135"
+ },
+ {
+  "id": "silvanna",
+  "name": "Silvanna",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero901-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153056"
+ },
+ {
+  "id": "cecilion",
+  "name": "Cecilion",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero911-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153102"
+ },
+ {
+  "id": "carmilla",
+  "name": "Carmilla",
+  "roles": [
+   "Support",
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero921-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153106"
+ },
+ {
+  "id": "atlas",
+  "name": "Atlas",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero931-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153111"
+ },
+ {
+  "id": "popol-and-kupa",
+  "name": "Popol and Kupa",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Jungle",
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Hero941-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153117"
+ },
+ {
+  "id": "yu-zhong",
+  "name": "Yu Zhong",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero951-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153123"
+ },
+ {
+  "id": "luo-yi",
+  "name": "Luo Yi",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero961-icon.png/revision/latest/scale-to-width-down/100?cb=20260918005444"
+ },
+ {
+  "id": "benedetta",
+  "name": "Benedetta",
+  "roles": [
+   "Assassin",
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero971-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153134"
+ },
+ {
+  "id": "khaleed",
+  "name": "Khaleed",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "Roaming",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero981-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153140"
+ },
+ {
+  "id": "barats",
+  "name": "Barats",
+  "roles": [
+   "Tank",
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane",
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero991-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153146"
+ },
+ {
+  "id": "brody",
+  "name": "Brody",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1001-icon.png/revision/latest/scale-to-width-down/100?cb=20260916131929"
+ },
+ {
+  "id": "yve",
+  "name": "Yve",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero1011-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153157"
+ },
+ {
+  "id": "mathilda",
+  "name": "Mathilda",
+  "roles": [
+   "Support",
+   "Assassin"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero1021-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153203"
+ },
+ {
+  "id": "paquito",
+  "name": "Paquito",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1031-icon.png/revision/latest/scale-to-width-down/100?cb=20260925051951"
+ },
+ {
+  "id": "gloo",
+  "name": "Gloo",
+  "roles": [
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero1041-icon.png/revision/latest/scale-to-width-down/100?cb=20250402105857"
+ },
+ {
+  "id": "beatrix",
+  "name": "Beatrix",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1051-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153218"
+ },
+ {
+  "id": "phoveus",
+  "name": "Phoveus",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero1061-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153224"
+ },
+ {
+  "id": "natan",
+  "name": "Natan",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1071-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153231"
+ },
+ {
+  "id": "aulus",
+  "name": "Aulus",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "Jungle",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero1081-icon.png/revision/latest/scale-to-width-down/100?cb=20260423095836"
+ },
+ {
+  "id": "aamon",
+  "name": "Aamon",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1091-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153241"
+ },
+ {
+  "id": "valentina",
+  "name": "Valentina",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1101-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153247"
+ },
+ {
+  "id": "edith",
+  "name": "Edith",
+  "roles": [
+   "Tank",
+   "Marksman"
+  ],
+  "lanes": [
+   "EXP Lane",
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero1111-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153252"
+ },
+ {
+  "id": "floryn",
+  "name": "Floryn",
+  "roles": [
+   "Support"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero1121-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153258"
+ },
+ {
+  "id": "yin",
+  "name": "Yin",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero1131-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153303"
+ },
+ {
+  "id": "melissa",
+  "name": "Melissa",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero1141-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153310"
+ },
+ {
+  "id": "xavier",
+  "name": "Xavier",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero1151-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153316"
+ },
+ {
+  "id": "julian",
+  "name": "Julian",
+  "roles": [
+   "Assassin",
+   "Fighter"
+  ],
+  "lanes": [
+   "Jungle",
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153321"
+ },
+ {
+  "id": "fredrinn",
+  "name": "Fredrinn",
+  "roles": [
+   "Fighter",
+   "Tank"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero1171-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153327"
+ },
+ {
+  "id": "joy",
+  "name": "Joy",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero1181-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153333"
+ },
+ {
+  "id": "novaria",
+  "name": "Novaria",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero1191-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153339"
+ },
+ {
+  "id": "arlott",
+  "name": "Arlott",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero1201-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153344"
+ },
+ {
+  "id": "ixia",
+  "name": "Ixia",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero1211-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153350"
+ },
+ {
+  "id": "nolan",
+  "name": "Nolan",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero1221-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153356"
+ },
+ {
+  "id": "cici",
+  "name": "Cici",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero1231-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153402"
+ },
+ {
+  "id": "chip",
+  "name": "Chip",
+  "roles": [
+   "Support",
+   "Tank"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1241-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153409"
+ },
+ {
+  "id": "zhuxin",
+  "name": "Zhuxin",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero1251-icon.png/revision/latest/scale-to-width-down/100?cb=20250406000840"
+ },
+ {
+  "id": "suyou",
+  "name": "Suyou",
+  "roles": [
+   "Assassin",
+   "Fighter"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero1261-icon.png/revision/latest/scale-to-width-down/100?cb=20241021153421"
+ },
+ {
+  "id": "lukas",
+  "name": "Lukas",
+  "roles": [
+   "Fighter"
+  ],
+  "lanes": [
+   "EXP Lane",
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1271-icon.png/revision/latest/scale-to-width-down/100?cb=20250125233414"
+ },
+ {
+  "id": "kalea",
+  "name": "Kalea",
+  "roles": [
+   "Support",
+   "Fighter"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1281-icon.png/revision/latest/scale-to-width-down/100?cb=20250402015050"
+ },
+ {
+  "id": "zetian",
+  "name": "Zetian",
+  "roles": [
+   "Mage"
+  ],
+  "lanes": [
+   "Mid Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1291-icon.png/revision/latest/scale-to-width-down/100?cb=20250402020310"
+ },
+ {
+  "id": "obsidia",
+  "name": "Obsidia",
+  "roles": [
+   "Marksman"
+  ],
+  "lanes": [
+   "Gold Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero1301-icon.png/revision/latest/scale-to-width-down/100?cb=20250928040150"
+ },
+ {
+  "id": "sora",
+  "name": "Sora",
+  "roles": [
+   "Fighter",
+   "Assassin"
+  ],
+  "lanes": [
+   "EXP Lane"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero1311-icon.png/revision/latest/scale-to-width-down/100?cb=20251220013450"
+ },
+ {
+  "id": "marcel",
+  "name": "Marcel",
+  "roles": [
+   "Support"
+  ],
+  "lanes": [
+   "Roaming"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero1321-icon.png/revision/latest/scale-to-width-down/100?cb=20260312135432"
+ },
+ {
+  "id": "hirara",
+  "name": "Hirara",
+  "roles": [
+   "Assassin"
+  ],
+  "lanes": [
+   "Jungle"
+  ],
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1331-icon.png/revision/latest/scale-to-width-down/100?cb=20260619074900"
+ }
+]

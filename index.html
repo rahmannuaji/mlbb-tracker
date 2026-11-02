@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0b0f1a">
+  <title>MLBB Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600;700&family=Barlow:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1 class="logo">MLBB <span>Tracker</span></h1>
+    <button id="sync" class="chip" aria-label="Status sinkron, buka pengaturan">Lokal</button>
+  </header>
+
+  <main class="container">
+    <button id="summary" class="summary" aria-label="Ubah ringkasan akun"></button>
+
+    <label class="search">
+      <span class="visually-hidden">Cari hero</span>
+      <input id="search" type="search" placeholder="Cari hero…" autocomplete="off">
+    </label>
+
+    <div id="groups"></div>
+    <p id="empty" class="muted" hidden>Hero tidak ditemukan.</p>
+  </main>
+
+  <footer class="footer container">
+    <div class="footer-actions">
+      <button id="export" class="btn ghost">Export JSON</button>
+      <button id="import" class="btn ghost">Import JSON</button>    </div>
+    <p class="muted small">Data hero: <a href="https://mobile-legends.fandom.com/wiki/List_of_heroes" target="_blank" rel="noopener">Mobile Legends Wiki (Fandom)</a>, CC BY-SA. Mobile Legends: Bang Bang © Moonton. Proyek pribadi non-komersial.</p>
+  </footer>
+
+  <dialog id="detail" aria-labelledby="detail-name">
+    <form method="dialog" class="dialog-close"><button class="icon-btn" aria-label="Tutup">✕</button></form>
+    <div id="detail-body"></div>
+  </dialog>
+
+  <dialog id="settings" aria-labelledby="settings-title">
+    <form method="dialog" class="dialog-close"><button class="icon-btn" aria-label="Tutup">✕</button></form>
+    <h2 id="settings-title" class="dialog-title">Sinkron Google Sheets</h2>
+    <p class="muted small">Isi dengan data Web App Apps Script kamu (panduan: <a href="README.md" target="_blank" rel="noopener">README</a> bagian 2). Tanpa ini, data hanya tersimpan di browser.</p>
+    <form id="conn-form" class="stack">
+      <label class="field"><span>URL Web App</span><input name="url" type="url" placeholder="https://script.google.com/macros/s/…/exec" required></label>
+      <label class="field"><span>User ID</span><input name="user" required autocomplete="username"></label>
+      <label class="field"><span>Token</span><input name="token" type="password" required autocomplete="current-password"></label>
+      <p id="conn-error" class="form-error" aria-live="polite"></p>
+      <div class="form-actions">
+        <button type="button" class="btn danger" id="disconnect">Putuskan</button>
+        <button class="btn primary">Simpan &amp; sinkron</button>
+      </div>
+    </form>
+  </dialog>
+
+  <input type="file" id="import-file" accept=".json,application/json" hidden>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
